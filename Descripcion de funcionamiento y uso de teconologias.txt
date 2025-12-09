@@ -1,0 +1,15 @@
+# OOP Vehicle Inventory System
+
+Sistema de gestión de vehículos (nuevos y usados) desarrollado en Python utilizando Programación Orientada a Objetos.  
+Incluye persistencia en JSON, manejo de listas enlazadas, menú interactivo por consola y pruebas unitarias para validar funcionalidades.
+
+## Características principales
+- Carga y almacenamiento de vehículos en `JSON`.
+- Inserción en lista: inicio, medio y final.
+- Actualización de precios por patente.
+- Integración con `unittest` para validar métodos.
+- Implementación de nodos y estructuras lineales.
+
+## Tecnologías usadas
+Python · JSON · OOP · Unit Testing
+
